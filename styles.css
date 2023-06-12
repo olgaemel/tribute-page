@@ -1,0 +1,80 @@
+main {
+  background-color: #eee;
+}
+
+* {
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  font-size: 10px;
+  text-align: center;
+}
+
+h1 {
+  font-weight: 700;
+  text-align: center;
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+
+#subtitle,
+#img-caption,
+li,
+li > strong,
+blockquote,
+p,
+.more,
+h2,
+figcaption,
+#tribute-link {
+  font-size: 1.6rem;
+  line-height: 24px;
+}
+
+blockquote {
+  font-style: italic;
+  text-align: left;
+  max-width: 550px;
+  margin: 0 auto;
+}
+
+li {
+  margin: 16px 0;
+  text-align: left;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-div {
+  background-color: white;
+  padding: 10px;
+  margin: 0;
+}
+
+.info-title {
+  margin: 50px 0px;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  font-weight: 700;
+}
+
+.more {
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #333;
+  font-weight: 700;
+  margin: 50px 0;
+  text-align: center;
+}
